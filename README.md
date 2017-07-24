@@ -1,2 +1,2 @@
 # FirstBlood
-第一个项目
+我的第一个Git项目
