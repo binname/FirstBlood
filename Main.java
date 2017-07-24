@@ -3,8 +3,4 @@ public class Main{
       System.out.println("Hello Git");
   }
 }
-
-
-
-
-//����ʲô��
+//在此过程中要注意编码问题
